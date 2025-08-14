@@ -50,10 +50,6 @@ Install Flutter SDK
 
 Android Studio / VS Code
 
-2️⃣ Clone the Repository
-git clone https://github.com/your-username/flutter-email-password-login.git
-cd flutter-email-password-login
-
 3️⃣ Install Dependencies
 flutter pub get
 
